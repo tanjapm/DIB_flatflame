@@ -1,0 +1,11 @@
+name: cantera-latest
+channels:
+  - cantera
+  - cantera/label/dev
+dependencies:
+  - cantera
+  - matplotlib
+  - pandas
+  - itertools
+  - yaml
+                         
