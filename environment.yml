@@ -6,6 +6,5 @@ dependencies:
   - cantera
   - matplotlib
   - pandas
-  - itertools
   - yaml
                          
