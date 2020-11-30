@@ -15,11 +15,5 @@ python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.4              # via pandas
 scipy==1.5.4              # via -r requirements.in, seaborn
 seaborn==0.11.0           # via -r requirements.in
-six==1.15.0               # via cycler, python-dateutil
-cantera              
-more-itertools              
-pathtools                    
-python==3.7.*                
-ruamel_yaml        
-scikit-image                                          
-yaml           
+six==1.15.0               # via cycler, python-dateutil      
+python==3.7.*                      
