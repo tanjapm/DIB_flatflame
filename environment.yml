@@ -8,5 +8,7 @@ dependencies:
   - pandas
   - seaborn
   - scipy
-  - yaml
+  - pyyaml
+  - more-itertools
+  - glob3
                          
