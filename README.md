@@ -11,8 +11,8 @@ I used the following intial conditions:
 - with the computational domain spanning 30 mm above the burner exit.
 
 
-The burner looks like this: 
-# ![burner](flatflame.png)
+The burner looks like this: <br>
+<img src="https://github.com/tanjapm/DIB_flatflame/blob/main/flatflame.JPG" width="400">
 
 CSV files for eleven fuel/air ratios contain the spatial evolution of velocity, density, temperature and species across the grid. The additional jupyter notebook (ThermoPropertiesNASA) and yaml file (thermoDataNASA-9) provide the functions and thermal properties called by the main notebook.
 
