@@ -43,3 +43,4 @@ I also used the publicly available [NASA Glenn Coefficients](https://ntrs.nasa.g
 
 ## License
 MIT &copy; tanjapm
+[![DOI](https://zenodo.org/badge/317345077.svg)](https://zenodo.org/badge/latestdoi/317345077)
